@@ -13,3 +13,5 @@ The `polar.plot` function now accepts 3 more parameters:
 See `test.R` for usage.
 
 See https://cran.r-project.org/web/packages/plotrix/index.html for package info.
+
+![test-image](./test.png)
